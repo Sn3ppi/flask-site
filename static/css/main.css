@@ -1,0 +1,7 @@
+.reduction {
+    text-overflow: ellipsis; overflow: hidden;
+}
+
+.line-break {
+    word-wrap: anywhere;
+}
